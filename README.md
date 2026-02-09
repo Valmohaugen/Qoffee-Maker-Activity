@@ -1,20 +1,23 @@
 # Qoffee Maker Activity: Quantum Circuits & Simulation
 
-Welcome to the Qoffee Maker Activity repository—a collaborative space for quantum circuit simulation, experimentation, and learning. Inspired by SC-Quantathon-v1-2024, this project is designed to make quantum computing accessible and hands-on for all.
+Welcome to the Qoffee Maker Activity! This is an activity hosted by the Clemson Quantum Club at Clemson University as an extension event of IBM Quantum's Fall Fest 2025.
 
 ## Features
-
-- Quantum Circuit Fundamentals: Build and simulate quantum circuits using Qiskit and the Aer Simulator.
-- Real Hardware Execution: Run your circuits on IBM QPUs via the qBraid platform.
-- Visualization: Visualize quantum states, measurement outcomes, and circuit diagrams.
-- Noise & Fidelity Exploration: Observe the effects of hardware noise and decoherence on quantum results.
-- Reproducible Experiments: All code and results are in a single notebook for easy sharing and reproducibility.
+- **Quantum Circuit Fundamentals:** Build and simulate quantum circuits using Qiskit and the Aer Simulator.
+- **Real Hardware Execution:** Run your circuits on IBM QPUs via the qBraid platform.
+- **Visualization:** Visualize quantum states, measurement outcomes, and circuit diagrams.
+- **Noise & Fidelity Exploration:** Observe the effects of hardware noise and decoherence on quantum results.
+- **Reproducible Experiments:** All code and results are in a single notebook for easy sharing and reproducibility.
 
 ## How to Use This Repository
 
 ### Clone the repository
-- Download or clone this repository to your local machine.
-- Or, just download the `Qoffee Maker Walkthrough.ipynb` notebook if you want to use it directly.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Valmohaugen/Qoffee-Maker-Activity.git
+   cd Qoffee-Maker-Activity
+   ```
+2. **Or, just download** the `Qoffee Maker Walkthrough.ipynb` notebook if you want to use it directly.
 
 ### Set up your environment
 - Go to https://account.qbraid.com/
@@ -32,14 +35,11 @@ Welcome to the Qoffee Maker Activity repository—a collaborative space for quan
 - Open the notebook and follow the walkthrough
 
 ## Project Structure
-
-- Qoffee Maker Walkthrough.ipynb: Main interactive notebook for the activity
-- Resources/: Additional materials and references
-- IBM Composer Solutions/: Example solutions for IBM Quantum Composer exercises
-- README.md: This file
+- `Qoffee Maker Walkthrough.ipynb`: Main interactive notebook for the activity
+- `Resources/`: Additional materials and references
+- `IBM Composer Solutions/`: Example solutions for IBM Quantum Composer exercises
 
 ## Results
-
 By working through this activity, you will:
 - Build and simulate quantum circuits using Qiskit
 - Run circuits on real IBM quantum hardware
