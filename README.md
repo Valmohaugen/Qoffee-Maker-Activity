@@ -1,6 +1,6 @@
-# Qoffee Maker Activity: Quantum Circuits & Simulation
+# Qoffee Maker Activity
 
-Welcome to the Qoffee Maker Activity! This is an activity hosted by the Clemson Quantum Club at Clemson University as an extension event of IBM Quantum's Fall Fest 2025.
+Welcome to the Qoffee Maker Activity! This is an activity hosted by the Clemson Quantum Club at Clemson University as an extension event of IBM Quantum's Fall Fest 2024.
 
 ## Features
 - **Quantum Circuit Fundamentals:** Build and simulate quantum circuits using Qiskit and the Aer Simulator.
